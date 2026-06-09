@@ -22,3 +22,6 @@ java
 ---
 
 ![Static Badge](https://img.shields.io/badge/你好-世界-blue)
+![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
+
+
