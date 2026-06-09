@@ -21,8 +21,4 @@ java
 
 ---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourname">
-    <img src=" https://img.shields.io/badge/你好-世界-blue">
-  </a>
-</p>
+![Static Badge](https://img.shields.io/badge/你好-世界-blue)
